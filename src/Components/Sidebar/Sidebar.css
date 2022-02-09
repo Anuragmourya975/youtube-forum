@@ -1,0 +1,14 @@
+.sidebar{
+    flex: 0.2;
+    border-right: 1px solid lightgray;
+    height: 100vh;
+    position: sticky;
+}
+
+.sidevar > hr{
+    height: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    background-color: lightgray;
+}
